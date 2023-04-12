@@ -9,3 +9,7 @@ A simple web page that shows data from a database and support the features above
 -supporting pagination 
 
 -supporting searching in two columns at least 
+
+
+# Prerequisites
+In order to connect to the database I had used phpMyAdmin(MySQL and MariaDB).
